@@ -1,0 +1,4 @@
+Num cured with delay 300 = 13
+Num cured with delay 150 = 45
+Num cured with delay 75 = 125
+Num cured with delay 0 = 1000
